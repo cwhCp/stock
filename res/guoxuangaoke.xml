@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stocks>
+	<stock id="1">
+		<pid>1</pid>
+		<price>20.89</price>
+		<num>2</num>
+		<state>1</state>
+		<date>2018-2-13</date>
+		<desc>建仓</desc>
+	</stock>
+	<stock id="2">
+		<pid>1</pid>
+		<price>20.7</price>
+		<num>1</num>
+		<state>1</state>
+		<date>2018-2-26</date>
+		<desc>加仓</desc>
+	</stock>
+	<stock id="3">
+		<pid>1</pid>
+		<price>21.65</price>
+		<num>2</num>
+		<state>1</state>
+		<date>2018-3-13</date>
+		<desc>加仓</desc>
+	</stock>
+	<stock id="4">
+		<pid>1</pid>
+		<price>23.54</price>
+		<num>3</num>
+		<state>1</state>
+		<date>2018-3-15</date>
+		<desc>加仓</desc>
+	</stock>
+	<stock id="5">
+		<pid>1</pid>
+		<price>21.805</price>
+		<num>4</num>
+		<state>0</state>
+		<date>2018-3-15</date>
+		<desc>净利润降低不看好</desc>
+	</stock>
+	<stock id="6">
+		<pid>1</pid>
+		<price>21.22</price>
+		<num>2</num>
+		<state>0</state>
+		<date>2018-3-15</date>
+		<desc>净利润降低不看好</desc>
+	</stock>
+</stocks>

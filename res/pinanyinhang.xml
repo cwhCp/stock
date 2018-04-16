@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stocks>
+	<stock id="1">
+		<pid>1</pid>
+		<price>10.75</price>
+		<num>1</num>
+		<state>1</state>
+		<date>2018-4-09</date>
+		<desc>建仓</desc>
+	</stock>
+	<stock id="1">
+		<pid>1</pid>
+		<price>11.86</price>
+		<num>2</num>
+		<state>1</state>
+		<date>2018-3-20</date>
+		<desc>建仓</desc>
+	</stock>
+</stocks>

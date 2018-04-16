@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tables>
+	<table id="1">
+		<name>沧州明珠</name>
+		<nodeXml>cangzhoumingzhu.xml</nodeXml>
+		<price>9.09</price>
+	</table>
+	<table id="2">
+		<name>国轩高科</name>
+		<nodeXml>guoxuangaoke.xml</nodeXml>
+		<price>19.6</price>
+	</table>
+	<table id="3">
+		<name>天齐锂业</name>
+		<nodeXml>tianqiliye.xml</nodeXml>
+		<price>54.5</price>
+	</table>
+	<table id="4">
+		<name>冠福股份</name>
+		<nodeXml>guanfugufen.xml</nodeXml>
+		<price>4.72</price>
+	</table>
+	<table id="5">
+		<name>永安药业</name>
+		<price>26.10</price>
+		<nodeXml>yonganyaoye.xml</nodeXml>
+	</table>
+	<table id="6">
+		<name>招商银行</name>
+		<price>29.54</price>
+		<nodeXml>zhaoshangyinhang.xml</nodeXml>
+	</table>
+	<table id="7">
+		<name>新安股份</name>
+		<price>13.96</price>
+		<nodeXml>xinangufen.xml</nodeXml>
+	</table>
+	<table id="8">
+		<name>中鼎股份</name>
+		<price>17.5</price>
+		<nodeXml>zhongdinggufen.xml</nodeXml>
+	</table>
+	<table id="9">
+		<name>平安银行</name>
+		<price>11.57</price>
+		<nodeXml>pinanyinhang.xml</nodeXml>
+	</table>
+	<table id="10">
+		<name>华帝股份</name>
+		<price>26.62</price>
+		<nodeXml>huadigufen.xml</nodeXml>
+	</table>
+</tables>

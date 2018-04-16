@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stocks>
+	<stock id="1">
+		<pid>1</pid>
+		<price>62.42</price>
+		<num>1</num>
+		<state>1</state>
+		<date>2018-3-12</date>
+		<desc>建仓</desc>
+	</stock>
+	<stock id="2">
+		<pid>1</pid>
+		<price>63.28</price>
+		<num>1</num>
+		<state>1</state>
+		<date>2018-3-13</date>
+		<desc>建仓</desc>
+	</stock>
+	<stock id="3">
+		<pid>1</pid>
+		<price>54.33</price>
+		<num>1</num>
+		<state>1</state>
+		<date>2018-3-26</date>
+		<desc>建仓</desc>
+	</stock>
+	<stock id="4">
+		<pid>1</pid>
+		<price>56.86</price>
+		<num>1</num>
+		<state>1</state>
+		<date>2018-4-03</date>
+		<desc>建仓</desc>
+	</stock>
+	<stock id="5">
+		<pid>1</pid>
+		<price>55.87</price>
+		<num>1</num>
+		<state>1</state>
+		<date>2018-4-03</date>
+		<desc>建仓</desc>
+	</stock>
+	<stock id="6">
+		<pid>1</pid>
+		<price>55.0</price>
+		<num>1</num>
+		<state>1</state>
+		<date>2018-4-04</date>
+		<desc>建仓</desc>
+	</stock>
+	<stock id="7">
+		<pid>1</pid>
+		<price>56.84</price>
+		<num>2</num>
+		<state>1</state>
+		<date>2018-4-04</date>
+		<desc>建仓</desc>
+	</stock>
+	<stock id="8">
+		<pid>1</pid>
+		<price>55.65</price>
+		<num>3</num>
+		<state>0</state>
+		<date>2018-4-04</date>
+		<desc>建仓</desc>
+	</stock>
+	<stock id="9">
+		<pid>1</pid>
+		<price>56.49</price>
+		<num>1</num>
+		<state>0</state>
+		<date>2018-4-04</date>
+		<desc>建仓</desc>
+	</stock>
+	<stock id="10">
+		<pid>1</pid>
+		<price>54.92</price>
+		<num>1</num>
+		<state>0</state>
+		<date>2018-4-04</date>
+		<desc>建仓</desc>
+	</stock>
+</stocks>
