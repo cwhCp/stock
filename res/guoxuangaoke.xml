@@ -48,4 +48,20 @@
 		<date>2018-3-15</date>
 		<desc>净利润降低不看好</desc>
 	</stock>
+	<stock id="7">
+		<pid>1</pid>
+		<price>19.66</price>
+		<num>1</num>
+		<state>0</state>
+		<date>2018-4-16</date>
+		<desc>净利润降低不看好</desc>
+	</stock>
+	<stock id="8">
+		<pid>1</pid>
+		<price>19.74</price>
+		<num>1</num>
+		<state>0</state>
+		<date>2018-4-16</date>
+		<desc>净利润降低不看好</desc>
+	</stock>
 </stocks>

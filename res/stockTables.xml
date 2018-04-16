@@ -27,7 +27,7 @@
 	</table>
 	<table id="6">
 		<name>招商银行</name>
-		<price>29.54</price>
+		<price>29.07</price>
 		<nodeXml>zhaoshangyinhang.xml</nodeXml>
 	</table>
 	<table id="7">
@@ -49,5 +49,10 @@
 		<name>华帝股份</name>
 		<price>26.62</price>
 		<nodeXml>huadigufen.xml</nodeXml>
+	</table>
+	<table id="11">
+		<name>中国平安</name>
+		<price>65.39</price>
+		<nodeXml>zhongguopingan.xml</nodeXml>
 	</table>
 </tables>

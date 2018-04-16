@@ -56,4 +56,12 @@
 		<date>2018-3-23</date>
 		<desc>建仓</desc>
 	</stock>
+	<stock id="8">
+		<pid>1</pid>
+		<price>9.08</price>
+		<num>5</num>
+		<state>0</state>
+		<date>2018-4-16</date>
+		<desc>建仓</desc>
+	</stock>
 </stocks>
